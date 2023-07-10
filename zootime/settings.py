@@ -19,7 +19,7 @@ DEBUG = os.getenv('DEBUG', default=False)  # Sets DEBUG to False if the key is n
 
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['zootimedjangoazure.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS = ['zootimedjangoazure1.azurewebsites.net']
 
 
 # Application definition
